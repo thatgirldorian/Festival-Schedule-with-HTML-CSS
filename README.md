@@ -11,8 +11,6 @@ This is a schedule for a beer festival. It's a table that shows events and their
 - GitHub 
 - Netlify
 
-<h3>Link to site:</h3>
-
 
 <h3>Screenshot:</h3>
 
